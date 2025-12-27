@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-'''
+```
 Home page
 
 <!DOCTYPE html>
@@ -347,7 +347,8 @@ p {
     background-color: #a80303ff;
 }
 
-'''
+```
+
 # OUTPUT:
 <img width="1017" height="582" alt="NITHI FIGMA" src="https://github.com/user-attachments/assets/fc5dee2c-5e66-4228-a91f-5b4fe801cce5" />
 
